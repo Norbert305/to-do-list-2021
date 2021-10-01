@@ -24,12 +24,8 @@
    }
 
 .shadow {
-    box-shadow: 5px 10px darkmagenta;
-    border: 1px solid darkmagenta;
-}
-
-body {
-    background: lightskyblue
+    box-shadow: 5px 10px darkgray;
+    border: 1px solid dimgray
 }
 
 .box {
@@ -37,9 +33,9 @@ body {
     text-align: center;
     font-weight: 500;
     font-size: large;
-    color:darkorchid;
+    color:black
 }
 
 h5 {
-    color: magenta;
+    color: darkslategrey;
 }
